@@ -2,7 +2,6 @@
 
 import { useEffect, useState } from "react";
 import Image from "next/image";
-import Link from "next/link";
 
 const services = [
   {
@@ -524,7 +523,7 @@ export default function Home() {
               Why Choose Tun-Global?
             </h2>
             <p className="text-xl leading-relaxed text-primary-foreground/90">
-              We don't just provide advice—we partner with you to implement
+              We don not just provide advice—we partner with you to implement
               solutions that deliver real, measurable impact. Our commitment to
               excellence and client success sets us apart.
             </p>
@@ -681,9 +680,9 @@ export default function Home() {
           <div className="max-w-4xl mx-auto text-center text-primary-foreground space-y-8">
             <h2 className="text-4xl md:text-5xl font-bold text-balance">
               Ready to Transform Your Business?
-            </h2>
+            </h2> 
             <p className="text-xl leading-relaxed text-primary-foreground/90">
-              Let's discuss how we can help you achieve your strategic
+              Let us discuss how we can help you achieve your strategic
               objectives and unlock new opportunities for growth.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
@@ -721,7 +720,7 @@ export default function Home() {
                   Get In Touch
                 </span>
                 <h2 className="text-4xl md:text-5xl font-bold">
-                  Let's Start a Conversation
+                  Start a Conversation
                 </h2>
                 <p className="text-lg text-muted-foreground leading-relaxed">
                   Reach out to us today and discover how Tun-Global can help

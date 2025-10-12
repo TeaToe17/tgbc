@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 declare module "locomotive-scroll" {
   export interface LocomotiveScrollOptions {
     el: HTMLElement
@@ -20,3 +21,4 @@ declare module "locomotive-scroll" {
     scrollTo(target: string | number | HTMLElement, options?: any): void
   }
 }
+/* eslint-enable @typescript-eslint/no-explicit-any */
