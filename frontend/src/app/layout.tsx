@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   description:
     "Premier consulting firm offering Business Growth, Strategy, Digital Transformation, Corporate Training, and more. Empowering businesses and professionals globally.",
   generator: "v0.app",
+  icons: {
+    icon: "/tunlogo.png",
+  },
 };
 
 export default function RootLayout({
