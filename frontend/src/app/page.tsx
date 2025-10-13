@@ -315,7 +315,7 @@ export default function Home() {
               <p className="text-lg text-muted-foreground leading-relaxed">
                 Tun-Global Business Consult is a premier consulting firm
                 dedicated to transforming businesses and empowering
-                professionals across the globe. With over 15 years of
+                professionals across the globe. With over 3 years of
                 experience, we deliver innovative solutions that drive
                 sustainable growth and competitive advantage.
               </p>
